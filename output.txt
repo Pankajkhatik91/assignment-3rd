@@ -1,0 +1,3 @@
+
+Hello world
+learning file handling in python.
